@@ -3,7 +3,8 @@
  as Excel, SQL, and, of course, Power BI is to develop my professional career in people analytics. 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to contribute to the people analysis area, but I am also interested in the sales area to apply my knowledge in data analysis.
-- 📫 How to contact me at my email giianfranco.m@gmail.com 
+- 📫 How to contact me at my email >>> giianfranco.m@gmail.com 
+- 💼 Link to access my people analysis project carried out in Coder House >>> https://drive.google.com/drive/folders/12nuqAfgNP2AJuv_p1r47NTd30btVs1Fa?usp=drive_link
 
 <!---
 GianF20/GianF20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
